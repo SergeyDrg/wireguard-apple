@@ -19,3 +19,4 @@ struct sockaddr_ctl {
     u_int32_t   sc_unit;
     u_int32_t   sc_reserved[5];
 };
+/Users/tauria/Documents/Git/wireguard-apple/Sources/WireGuardKitGo/Makefile
